@@ -1,55 +1,60 @@
-CYCLISTIC TRIP DATA
+# 🚴 Cyclistic Trip Data Analysis
 
-=======================================
+---
 
+## 📊 Data Overview
 
+| | |
+|---|---|
+| **Source** | Motivate International Inc. (Divvy Bike Share) |
+| **Analysis Period** | 01/2025 – 12/2025 |
+| **Original Dataset** | [divvy-tripdata.s3.amazonaws.com](https://divvy-tripdata.s3.amazonaws.com/index.html) |
+| **Data License** | [Divvy Data License Agreement](https://divvybikes.com/data-license-agreement) |
+| **Raw Data Size** | ~1.1 GB (5.3 million rows) |
+| **Processed Data Size** | ~900 MB (5.174 million rows) |
 
-Source: Motivate International Inc. (Divvy Bike Share)
+---
 
-Data time for this analysis: 01/2025 - 12/2025
+## 📖 Column Descriptions
 
-Original dataset can be found at: https://divvy-tripdata.s3.amazonaws.com/index.html
+| # | Column | Description |
+|---|---|---|
+| 1 | `ride_id` | Unique ID for each ride |
+| 2 | `rideable_type` | Type of bike (classic or electric bike) |
+| 3 | `started_at` | Trip start date and time |
+| 4 | `ended_at` | Trip end date and time |
+| 5 | `start_station_name` | Trip start station |
+| 6 | `start_station_id` | Trip start station ID |
+| 7 | `end_station_name` | Trip end station |
+| 8 | `end_station_id` | Trip end station ID |
+| 9 | `start_lat` | Starting latitude of the trip |
+| 10 | `start_lng` | Starting longitude of the trip |
+| 11 | `end_lat` | Ending latitude of the trip |
+| 12 | `end_lng` | Ending longitude of the trip |
+| 13 | `member_casual` | Rider type — **Casual**: single-ride or day pass purchasers; **Member**: annual subscription holders |
 
-Data license can be found at: https://divvybikes.com/data-license-agreement
+---
 
-Raw data size: \~1.1 GB (5.3 million of rows) 
+## ⚠️ Notes & Limitations
 
-Processed data size: \~900 MB (5.174 million of rows)
+- No personally identifiable information (PII) is included in this dataset.
 
+---
 
-
-COLUMN DESCRIPTIONS
-
-\-------------------
-
-1. ride\_id - Unique id for each ride
-2. rideable\_type - Types of bike (classic and electric bike)
-3. started\_at - Trip start day and time
-4. ended\_at - Trip end day and time
-5. start\_station\_name - Trip start station
-6. start\_station\_id - Trip start station id
-7. end\_station\_name - Trip end station
-8. end\_station\_id - Trip end station id
-9. start\_lat - Starting latitude of the trip
-10. start\_lng - Starting longitude of the trip
-11. end\_lat - Ending latitude of the trip
-12. end\_lng - Ending longitude of the trip
-13. member\_casual - Types of customers (Casual rider - purchasing single ride or full day passes \& Member - purchasing annual memberships)
-
-
-
-NOTES
-
-\-----
-
-\- No personally identifiable information (PII) is included in this dataset.
-
-
-
-PIPELINE
-
-=======================================
-
+## 🔄 Pipeline
 Google Colab (Data Cleaning + Transforming) => Google Big Query (Data Source) => Connected Sheet (Google Sheet - Analyzing \& Visualization)
 
-CANVA SLIDE LINK: https://canva.link/yvlw5sdetgopx2u 
+---
+
+## 📈 Presentation
+
+🔗 **[View the Slides on Canva](https://canva.link/yvlw5sdetgopx2u)**
+
+---
+
+## 📄 License
+
+This project uses public data made available by Motivate International Inc. 
+under the [Divvy Data License Agreement](https://divvybikes.com/data-license-agreement). 
+"Cyclistic" is a fictional company name used for this case study; the underlying 
+data is sourced from Divvy, Chicago's real bike-share system.
