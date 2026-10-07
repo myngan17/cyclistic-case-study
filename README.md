@@ -2,6 +2,14 @@
 
 ---
 
+## 🎯Business Task: 
+Maximizing the number of annual members to support future growth by converting casual riders to members. To do that, there are 3 questions that need to be answered:
+1. How do annual members and casual riders use Cyclistic bikes diferently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to infuence casual riders to become members?
+
+---
+
 ## 📊 Data Overview
 
 | | |
