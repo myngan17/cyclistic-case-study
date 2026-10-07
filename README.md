@@ -7,6 +7,7 @@ Maximizing the number of annual members to support future growth by converting c
 1. How do annual members and casual riders use Cyclistic bikes diferently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to infuence casual riders to become members?
+
 For more detail, read the full scenario: [Case Study 1_ How does a bike-share navigate speedy success.pdf](<Case Study 1_ How does a bike-share navigate speedy success.pdf>)
 ---
 
