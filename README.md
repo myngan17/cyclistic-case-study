@@ -58,8 +58,8 @@ Google Colab (Data Cleaning + Transforming) => Google Big Query (Data Source) =>
 
 ## 📈 Presentation
 
-🔗 **[View the Slides on Canva](https://canva.link/yvlw5sdetgopx2u)**
-
+- 🔗 [View the slides on Canva](https://canva.link/yvlw5sdetgopx2u)
+- 📄 [PDF version](Slide_Cyclistic_Case_Study.pdf)
 ---
 
 ## 📄 License
