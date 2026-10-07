@@ -1,4 +1,4 @@
-# 🚴 Cyclistic Trip Data Analysis
+# 🚴 Cyclistic Trip Data Analysis (Google Data Analytics Professional Certificate Case Study)
 
 ---
 
