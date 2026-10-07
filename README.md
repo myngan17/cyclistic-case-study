@@ -9,6 +9,7 @@ Maximizing the number of annual members to support future growth by converting c
 3. How can Cyclistic use digital media to infuence casual riders to become members?
 
 For more detail, read the full scenario: [Case Study 1_ How does a bike-share navigate speedy success.pdf](<Case Study 1_ How does a bike-share navigate speedy success.pdf>)
+
 ---
 
 ## 📊 Data Overview
